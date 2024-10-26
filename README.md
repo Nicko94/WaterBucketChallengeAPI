@@ -30,27 +30,31 @@ Prerequisites:
 
 Installation:
 1. Clone the repository
-```
+
+```bash
 $ git clone https://github.com/Nicko94/WaterBucketChallenge.git
 $ cd WaterBucketChallenge
 ```
 2. Restore the dependencies:
 
-```
+```bash
 $ dotnet restore
 ```
 3. Build the project
-```
+
+```bash
 $ dotnet build
 ```
    
 ## How to Run
 1. Navigate to the project's directory:
-```
+
+```bash
 cd WaterBucketChallenge.API
 ```
 2. Start the API:
-```
+
+```bash
 $ dotnet run
 ```
 3. The API will run on http://localhost:5000. You can now send request using Swagger or similar tools like Postman
@@ -61,10 +65,11 @@ $ dotnet run
 
 **Request Parameters:**
 
-This endpoint solves the water bucket problem for the given bucket sizes and target volume.
+The request body should be in JSON format with the following structure:
 
 **Request Body:**
-```
+
+```JSON
 {
   "xCapacity": 3,
   "yCapacity": 5,
@@ -73,9 +78,14 @@ This endpoint solves the water bucket problem for the given bucket sizes and tar
 
 ```
 
-**Response:**
+- **xCapacity:** (int) The capacity of bucket X.
+- **yCapacity:** (int) The capacity of bucket Y.
+- **zTarget:** (int) The target amount of water to measure. 
+
+**Response Format:**
 - **200 OK** (Success Response)
-```
+
+```JSON
 {
   "solution": [
     {"stepNumber": 1, "bucketX": 0, "bucketY": 5, "action": "Fill bucket Y"},
@@ -87,19 +97,28 @@ This endpoint solves the water bucket problem for the given bucket sizes and tar
   ]
 }
 ```
-**400 Bad request** (Error Response)
-```
+### Error Responses:
+- **400 Bad request** (Error Response)
+
+```JSON
 { 
   "message": "X, Y, and Z must be positive integers." 
+}
+```
+- **400 Bad request** (Error Response)
+
+```JSON
+{ 
+  "message": "Target volume cannot be larger than the largest bucket." 
 }
 ```
 
  ## Algorithm Explanation
 
 The algorithm uses a **Breadth-First Search (BFS)** approach to explore all possible states of the two buckets. Each state is represented by a Node object containing:
-- X: Amount of water in the bucket X
-- Y: Amount of water in the bucket Y
-- Operation: Specific action taken to reach the current state ("Fill bucket X")
+- **X:** Amount of water in the bucket X
+- **Y:** Amount of water in the bucket Y
+- **Operation:** Specific action taken to reach the current state ("Fill bucket X")
 
 # Steps of the algorithm
 1. **Initialize:** Start with **both** buckets empty.
@@ -114,4 +133,4 @@ The algorithm uses a **Breadth-First Search (BFS)** approach to explore all poss
 
 ## Conclusion
 
-This API offers a simple yet effective solution to the water bucket challenge using BFS. The code is well structured with distinct layers for clarithy and separation of tasks.
+This API offers a simple but effective solution to the water bucket challenge using BFS. The code is well structured with distinct layers for clarithy and separation of tasks.
