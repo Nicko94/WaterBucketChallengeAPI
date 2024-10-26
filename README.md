@@ -46,9 +46,9 @@ $ dotnet build
    
 ## How to Run
 1. Navigate to the project's directory:
-   ```
-   cd WaterBucketChallenge.API
-   ```
+```
+cd WaterBucketChallenge.API
+```
 2. Start the API:
 ```
 $ dotnet run
@@ -56,7 +56,10 @@ $ dotnet run
 3. The API will run on http://localhost:5000. You can now send request using Swagger or similar tools like Postman
 
 ## API Endpoints
-### POST /solve
+### URI: /solve
+### Method: POST
+
+**Request Parameters:**
 
 This endpoint solves the water bucket problem for the given bucket sizes and target volume.
 
