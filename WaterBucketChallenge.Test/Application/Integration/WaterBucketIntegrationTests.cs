@@ -76,7 +76,6 @@ namespace WaterBucketChallenge.Tests.IntegrationTests
             // Arrange
             var requestBody = new
             {
-                //COLOCAR VALORES QUE HAGAN QUE ENTRE EN ESTE CASO, PARA QUE DE EL MENSAJE DECLARADO EN EL METODO ---- - ******
                 XCapacity = 2,
                 YCapacity = 1,
                 ZTarget = 5
