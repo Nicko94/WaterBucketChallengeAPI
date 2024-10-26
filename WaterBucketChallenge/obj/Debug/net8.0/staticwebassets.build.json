@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7QKUpaS2gcIGmloRvmwbfyqOR72dGaQcOz/aqbsroVI=",
+  "Source": "WaterBucketChallenge.API",
+  "BasePath": "_content/WaterBucketChallenge.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

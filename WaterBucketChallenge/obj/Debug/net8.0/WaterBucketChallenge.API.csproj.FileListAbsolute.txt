@@ -1,0 +1,181 @@
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.AssemblyReference.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfoInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfo.cs
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.CoreCompileInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.exe
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.deps.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.runtimeconfig.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.WaterBucketChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.build.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\scopedcss\bundle\WaterBucketChallenge.API.styles.css
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBuc.108032B7.Up2Date
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\refint\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.genruntimeconfig.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\ref\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.exe
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.deps.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.runtimeconfig.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfoInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.WaterBucketChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.build.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\scopedcss\bundle\WaterBucketChallenge.API.styles.css
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBuc.108032B7.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\refint\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.genruntimeconfig.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\ref\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\appsettings.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.exe
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.deps.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.runtimeconfig.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfoInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.sourcelink.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.WaterBucketChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.build.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\scopedcss\bundle\WaterBucketChallenge.API.styles.css
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBuc.108032B7.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\refint\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.genruntimeconfig.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge\obj\Debug\net8.0\ref\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\appsettings.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.exe
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.deps.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.runtimeconfig.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.AssemblyReference.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfoInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfo.cs
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.CoreCompileInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.WaterBucketChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.build.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterBucketChallenge.API.props
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\scopedcss\bundle\WaterBucketChallenge.API.styles.css
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBuc.108032B7.Up2Date
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\refint\WaterBucketChallenge.API.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.genruntimeconfig.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\ref\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\appsettings.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.exe
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.deps.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.runtimeconfig.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\bin\Debug\net8.0\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfoInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.AssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.WaterBucketChallenge.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.build.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterBucketChallenge.API.props
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\scopedcss\bundle\WaterBucketChallenge.API.styles.css
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBuc.108032B7.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\refint\WaterBucketChallenge.API.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\WaterBucketChallenge.API.genruntimeconfig.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge\obj\Debug\net8.0\ref\WaterBucketChallenge.API.dll

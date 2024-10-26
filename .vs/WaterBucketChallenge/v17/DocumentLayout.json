@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.application\\interfaces\\iwaterbucketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|solutionrelative:waterbucketchallenge.application\\interfaces\\iwaterbucketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\waterbucketchallenge.application\\dtos\\waterbucketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|solutionrelative:waterbucketchallenge.application\\dtos\\waterbucketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E320E3-6527-4A42-99BD-87ECF57DD3E6}|WaterBucketChallenge\\WaterBucketChallenge.API.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E320E3-6527-4A42-99BD-87ECF57DD3E6}|WaterBucketChallenge\\WaterBucketChallenge.API.csproj|solutionrelative:waterbucketchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E320E3-6527-4A42-99BD-87ECF57DD3E6}|WaterBucketChallenge\\WaterBucketChallenge.API.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge\\controllers\\waterbucketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E320E3-6527-4A42-99BD-87ECF57DD3E6}|WaterBucketChallenge\\WaterBucketChallenge.API.csproj|solutionrelative:waterbucketchallenge\\controllers\\waterbucketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.application\\dtos\\basedtos\\waterbucketbaseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|solutionrelative:waterbucketchallenge.application\\dtos\\basedtos\\waterbucketbaseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A2A823-9437-4B43-907F-8DD0D9A62874}|WaterBucketChallenge.Domain\\WaterBucketChallenge.Domain.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.domain\\entities\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A2A823-9437-4B43-907F-8DD0D9A62874}|WaterBucketChallenge.Domain\\WaterBucketChallenge.Domain.csproj|solutionrelative:waterbucketchallenge.domain\\entities\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.application\\services\\waterbucketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5804EBC-6EAE-4E61-9550-A901DDA2B623}|WaterBucketChallenge.Application\\WaterBucketChallenge.Application.csproj|solutionrelative:waterbucketchallenge.application\\services\\waterbucketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0229AF-2F21-4C88-8410-FB9F83E915B1}|WaterBucketChallenge.Test\\WaterBucketChallenge.Test.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.test\\application\\integration\\waterbucketintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0229AF-2F21-4C88-8410-FB9F83E915B1}|WaterBucketChallenge.Test\\WaterBucketChallenge.Test.csproj|solutionrelative:waterbucketchallenge.test\\application\\integration\\waterbucketintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0229AF-2F21-4C88-8410-FB9F83E915B1}|WaterBucketChallenge.Test\\WaterBucketChallenge.Test.csproj|c:\\users\\licas\\desktop\\entrevista nico\\prueba gabo\\waterbucketchallenge-main\\waterbucketchallenge.test\\application\\unit\\waterbucketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0229AF-2F21-4C88-8410-FB9F83E915B1}|WaterBucketChallenge.Test\\WaterBucketChallenge.Test.csproj|solutionrelative:waterbucketchallenge.test\\application\\unit\\waterbucketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaterBucketController.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge\\Controllers\\WaterBucketController.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge\\Controllers\\WaterBucketController.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge\\Controllers\\WaterBucketController.cs",
+              "RelativeToolTip": "WaterBucketChallenge\\Controllers\\WaterBucketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:09:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge\\Program.cs",
+              "RelativeToolTip": "WaterBucketChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:06:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterBucketRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Dtos\\WaterBucketRequestDto.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Application\\Dtos\\WaterBucketRequestDto.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Dtos\\WaterBucketRequestDto.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Application\\Dtos\\WaterBucketRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:02:29.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWaterBucketService.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Interfaces\\IWaterBucketService.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Application\\Interfaces\\IWaterBucketService.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Interfaces\\IWaterBucketService.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Application\\Interfaces\\IWaterBucketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:19:52.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaterBucketBaseResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Dtos\\BaseDtos\\WaterBucketBaseResponseDto.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Application\\Dtos\\BaseDtos\\WaterBucketBaseResponseDto.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Dtos\\BaseDtos\\WaterBucketBaseResponseDto.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Application\\Dtos\\BaseDtos\\WaterBucketBaseResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:18:56.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Domain\\Entities\\Node.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Domain\\Entities\\Node.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Domain\\Entities\\Node.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Domain\\Entities\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:21:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaterBucketService.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Services\\WaterBucketService.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Application\\Services\\WaterBucketService.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Application\\Services\\WaterBucketService.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Application\\Services\\WaterBucketService.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:09:55.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaterBucketServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Test\\Application\\Unit\\WaterBucketServiceTests.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Test\\Application\\Unit\\WaterBucketServiceTests.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Test\\Application\\Unit\\WaterBucketServiceTests.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Test\\Application\\Unit\\WaterBucketServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:08:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterBucketIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Test\\Application\\Integration\\WaterBucketIntegrationTests.cs",
+              "RelativeDocumentMoniker": "WaterBucketChallenge.Test\\Application\\Integration\\WaterBucketIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\licas\\Desktop\\ENTREVISTA NICO\\PRUEBA GABO\\WaterBucketChallenge-main\\WaterBucketChallenge.Test\\Application\\Integration\\WaterBucketIntegrationTests.cs",
+              "RelativeToolTip": "WaterBucketChallenge.Test\\Application\\Integration\\WaterBucketIntegrationTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:05:45.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WaterBucketChallenge.API.Controllers.WaterBucketController",
+    "Method": "Solve",
+    "RelativePath": "solve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WaterBucketChallenge.Application.Dtos.WaterBucketRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

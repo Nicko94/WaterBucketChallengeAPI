@@ -1,0 +1,135 @@
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBuc.E9ED5B0D.Up2Date
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBuc.E9ED5B0D.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\h\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Buffers.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Memory.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBuc.E9ED5B0D.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\Doc\WaterBucketChallenge\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Buffers.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Memory.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.pdb
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Buffers.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Memory.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBuc.E9ED5B0D.Up2Date
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.dll
+C:\Users\gabe6\source\repos\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Application.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Buffers.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Memory.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\WaterBucketChallenge.Domain.pdb
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Buffers.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Memory.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBuc.E9ED5B0D.Up2Date
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.dll
+C:\Users\licas\Desktop\ENTREVISTA NICO\PRUEBA GABO\WaterBucketChallenge-main\WaterBucketChallenge.Application\obj\Debug\WaterBucketChallenge.Application.pdb
