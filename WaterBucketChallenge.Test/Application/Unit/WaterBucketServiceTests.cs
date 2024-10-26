@@ -42,8 +42,8 @@ namespace WaterBucketChallenge.Test.Application.Unit
         }
 
         // Test case for handling invalid inputs that should produce an error
-        /*[Test]
-        [TestCase(0, 0, 0, TestName = "Solve_ErrorWithInvalidInputs")]
+        [Test]
+        [TestCase(0, -1, 0, TestName = "Solve_ErrorWithInvalidInputs")]
         public void Solve_WaterBucketService_Error(int XCapacity, int YCapacity, int ZTarget)
         {
             // Act: Call the Solve method with inputs that should generate an error response
@@ -63,7 +63,7 @@ namespace WaterBucketChallenge.Test.Application.Unit
                 Assert.IsTrue(errorResult.error, "Error flag should be set to true");
                 Assert.IsNotEmpty(errorResult.message, "Error message should not be empty");
             });
-        }*/
+        }
 
         // Test case for a scenario where no solution exists for the given inputs
         [Test]
